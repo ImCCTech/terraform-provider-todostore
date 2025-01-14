@@ -3,7 +3,7 @@ package todostore
 import (
 	"strconv"
 
-	sdk "github.com/TyunTech/go-todostore"
+	sdk "github.com/ImCCTech/go-todostore"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 )
 

@@ -44,10 +44,6 @@ github.com/Masterminds/sprig v2.22.0+incompatible/go.mod h1:y6hNFY5UBTIWBxnzTeuN
 github.com/Microsoft/go-winio v0.4.14/go.mod h1:qXqCSQ3Xa7+6tgxaGTIe4Kpcdsi+P8jBhyzoq1bpyYA=
 github.com/Microsoft/go-winio v0.4.16 h1:FtSW/jqD+l4ba5iPBj9CODVtgfYAD8w2wS923g/cFDk=
 github.com/Microsoft/go-winio v0.4.16/go.mod h1:XB6nPKklQyQ7GC9LdcBEcBl8PF76WugXOPRXwdLnMv0=
-github.com/TyunTech/go-petstore v0.0.0-20220222070422-bb2b2700a078 h1:4viY3GYE9iRCGHv/CqQqVoowMaeMwDoD/LnnBNtWo+c=
-github.com/TyunTech/go-petstore v0.0.0-20220222070422-bb2b2700a078/go.mod h1:eC9psqQJljX98WRlX0qAFVQPmSp3sQnudbbh9cQH2wI=
-github.com/TyunTech/go-todostore v0.0.0-20250113071652-b5e3ced526a5 h1:wmbIp/cm2/SdyYoFfCdCFJhH452lsABB1UdyQXaplgY=
-github.com/TyunTech/go-todostore v0.0.0-20250113071652-b5e3ced526a5/go.mod h1:sLckR5N2CXAmj9rZZHWuxWGzngtK0UHBAk3FJ86L8z8=
 github.com/agext/levenshtein v1.2.1/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=
 github.com/agext/levenshtein v1.2.2 h1:0S/Yg6LYmFJ5stwQeRp6EeOcCbj7xiqQSdNelsXvaqE=
 github.com/agext/levenshtein v1.2.2/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki2W0IB5558=

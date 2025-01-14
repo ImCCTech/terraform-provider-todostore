@@ -1,10 +1,8 @@
-module github.com/TyunTech/terraform-provider-todostore
+module github.com/ImCCTech/terraform-provider-todostore
 
 go 1.22.3
 
 require (
-	github.com/TyunTech/go-petstore v0.0.0-20220222070422-bb2b2700a078
-	github.com/TyunTech/go-todostore v0.0.0-20250113071652-b5e3ced526a5
 	github.com/hashicorp/terraform-plugin-sdk v1.17.2
 )
 
